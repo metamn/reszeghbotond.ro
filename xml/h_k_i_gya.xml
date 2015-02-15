@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+    <pic>
+        <image>kepek/konyvek_illusztralt/gyorgy_attila/01_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/gyorgy_attila/01_t.jpg</thumbnail>
+        <caption>György Attila - Harcosok könyve I.</caption>
+    </pic>
+    <pic>
+        <image>kepek/konyvek_illusztralt/gyorgy_attila/02_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/gyorgy_attila/02_t.jpg</thumbnail>
+        <caption>György Attila - Harcosok könyve II.</caption>
+    </pic>    
+    <pic>
+        <image>kepek/konyvek_illusztralt/gyorgy_attila/03_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/gyorgy_attila/03_t.jpg</thumbnail>
+        <caption>György Attila - Harcosok könyve III.</caption>
+    </pic>   
+    <pic>
+        <image>kepek/konyvek_illusztralt/gyorgy_attila/04_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/gyorgy_attila/04_t.jpg</thumbnail>
+        <caption>György Attila - Harcosok könyve IV.</caption>
+    </pic>     
+    <pic>
+        <image>kepek/konyvek_illusztralt/gyorgy_attila/05_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/gyorgy_attila/05_t.jpg</thumbnail>
+        <caption>György Attila - A boszorkányok feltámadása I.</caption>
+    </pic>     
+    <pic>
+        <image>kepek/konyvek_illusztralt/gyorgy_attila/06_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/gyorgy_attila/06_t.jpg</thumbnail>
+        <caption>György Attila - A boszorkányok feltámadása II.</caption>
+    </pic>     
+    <pic>
+        <image>kepek/konyvek_illusztralt/gyorgy_attila/07_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/gyorgy_attila/07_t.jpg</thumbnail>
+        <caption>György Attila - A boszorkányok feltámadása III.</caption>
+    </pic>
+	 <pic>
+        <image>kepek/konyvek_illusztralt/gyorgy_attila/08_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/gyorgy_attila/08_t.jpg</thumbnail>
+        <caption>György Attila - A boszorkányok feltámadása IV.</caption>
+    </pic>
+</images>

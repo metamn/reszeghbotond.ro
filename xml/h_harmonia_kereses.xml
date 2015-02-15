@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+    <pic>
+        <image>kepek/harmonia_kereses/01_b.jpg</image>
+        <thumbnail>kepek/harmonia_kereses/01_t.jpg</thumbnail>
+        <caption>Harmónia keresés I. | aquaforte-tinta 100x50 | 2001</caption>
+    </pic>
+    <pic>
+        <image>kepek/harmonia_kereses/02_b.jpg</image>
+        <thumbnail>kepek/harmonia_kereses/02_t.jpg</thumbnail>
+        <caption>Harmónia keresés II. | aquaforte-tinta 100x50 | 2001</caption>
+    </pic>    
+    <pic>
+        <image>kepek/harmonia_kereses/03_b.jpg</image>
+        <thumbnail>kepek/harmonia_kereses/03_t.jpg</thumbnail>
+        <caption>Harmónia keresés III. | aquaforte-tinta 100x50 | 2001</caption>
+    </pic>   
+    <pic>
+        <image>kepek/harmonia_kereses/04_b.jpg</image>
+        <thumbnail>kepek/harmonia_kereses/04_t.jpg</thumbnail>
+        <caption>Harmónia keresés IV. | aquaforte-tinta 100x50 | 2001</caption>
+    </pic>     
+    <pic>
+        <image>kepek/harmonia_kereses/05_b.jpg</image>
+        <thumbnail>kepek/harmonia_kereses/05_t.jpg</thumbnail>
+        <caption>Harmónia keresés V. | aquaforte-tinta 100x50 | 2001</caption>
+    </pic>
+</images>

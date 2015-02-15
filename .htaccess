@@ -1,0 +1,7 @@
+<ifModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /reszeghbotond.ro/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /reszeghbotond.ro/index.html [L]
+</IfModule>
