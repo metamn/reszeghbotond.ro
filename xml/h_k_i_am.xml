@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+    <pic>
+        <image>kepek/konyvek_illusztralt/anca_mizumschi/01_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/anca_mizumschi/01_t.jpg</thumbnail>
+        <caption>Anca Mizumschi - Poze cu zimţi I.</caption>
+    </pic>
+    <pic>
+        <image>kepek/konyvek_illusztralt/anca_mizumschi/02_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/anca_mizumschi/02_t.jpg</thumbnail>
+        <caption>Anca Mizumschi - Poze cu zimţi II.</caption>
+    </pic>    
+    <pic>
+        <image>kepek/konyvek_illusztralt/anca_mizumschi/03_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/anca_mizumschi/03_t.jpg</thumbnail>
+        <caption>Anca Mizumschi - Poze cu zimţi III.</caption>
+    </pic>   
+    <pic>
+        <image>kepek/konyvek_illusztralt/anca_mizumschi/04_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/anca_mizumschi/04_t.jpg</thumbnail>
+        <caption>Anca Mizumschi - Poze cu zimţi IV.</caption>
+    </pic>     
+    <pic>
+        <image>kepek/konyvek_illusztralt/anca_mizumschi/05_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/anca_mizumschi/05_t.jpg</thumbnail>
+        <caption>Anca Mizumschi - Poze cu zimţi V.</caption>
+    </pic>     
+    <pic>
+        <image>kepek/konyvek_illusztralt/anca_mizumschi/06_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/anca_mizumschi/06_t.jpg</thumbnail>
+        <caption>Anca Mizumschi - Poze cu zimţi VI.</caption>
+    </pic>     
+    <pic>
+        <image>kepek/konyvek_illusztralt/anca_mizumschi/07_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/anca_mizumschi/07_t.jpg</thumbnail>
+        <caption>Anca Mizumschi - Poze cu zimţi VII.</caption>
+    </pic>
+</images>

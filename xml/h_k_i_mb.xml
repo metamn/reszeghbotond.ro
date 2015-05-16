@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+    <pic>
+        <image>kepek/konyvek_illusztralt/marko_bela/01_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/marko_bela/01_t.jpg</thumbnail>
+        <caption>Markó Béla - Balkáni fohász I.</caption>
+    </pic>
+    <pic>
+        <image>kepek/konyvek_illusztralt/marko_bela/02_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/marko_bela/02_t.jpg</thumbnail>
+        <caption>Markó Béla - Balkáni fohász II.</caption>
+    </pic>    
+    <pic>
+        <image>kepek/konyvek_illusztralt/marko_bela/03_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/marko_bela/03_t.jpg</thumbnail>
+        <caption>Markó Béla - Balkáni fohász III.</caption>
+    </pic>   
+    <pic>
+        <image>kepek/konyvek_illusztralt/marko_bela/04_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/marko_bela/04_t.jpg</thumbnail>
+        <caption>Markó Béla - Balkáni fohász IV.</caption>
+    </pic>     
+    <pic>
+        <image>kepek/konyvek_illusztralt/marko_bela/05_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/marko_bela/05_t.jpg</thumbnail>
+        <caption>Markó Béla - Balkáni fohász V.</caption>
+    </pic>     
+    <pic>
+        <image>kepek/konyvek_illusztralt/marko_bela/06_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/marko_bela/06_t.jpg</thumbnail>
+        <caption>Markó Béla - Balkáni fohász VI.</caption>
+    </pic>     
+    <pic>
+        <image>kepek/konyvek_illusztralt/marko_bela/07_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/marko_bela/07_t.jpg</thumbnail>
+        <caption>Markó Béla - Balkáni fohász VII.</caption>
+    </pic>
+</images>

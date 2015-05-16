@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+    <pic>
+        <image>kepek/konyvek_illusztralt/boszormenyi_zoltan/01_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/boszormenyi_zoltan/01_t.jpg</thumbnail>
+        <caption>Zoltán Böszörményi - O sumă de sonete I.</caption>
+    </pic>
+    <pic>
+        <image>kepek/konyvek_illusztralt/boszormenyi_zoltan/02_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/boszormenyi_zoltan/02_t.jpg</thumbnail>
+        <caption>Zoltán Böszörményi - O sumă de sonete II.</caption>
+    </pic>    
+    <pic>
+        <image>kepek/konyvek_illusztralt/boszormenyi_zoltan/03_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/boszormenyi_zoltan/03_t.jpg</thumbnail>
+        <caption>Zoltán Böszörményi - O sumă de sonete III.</caption>
+    </pic>   
+    <pic>
+        <image>kepek/konyvek_illusztralt/boszormenyi_zoltan/04_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/boszormenyi_zoltan/04_t.jpg</thumbnail>
+        <caption>Zoltán Böszörményi - O sumă de sonete IV.</caption>
+    </pic>     
+    <pic>
+        <image>kepek/konyvek_illusztralt/boszormenyi_zoltan/05_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/boszormenyi_zoltan/05_t.jpg</thumbnail>
+        <caption>Zoltán Böszörményi - O sumă de sonete V.</caption>
+    </pic>     
+    <pic>
+        <image>kepek/konyvek_illusztralt/boszormenyi_zoltan_/01_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/boszormenyi_zoltan_/01_t.jpg</thumbnail>
+        <caption>Zoltán Böszörményi - A szerelem illata I.</caption>
+    </pic>     
+    <pic>
+        <image>kepek/konyvek_illusztralt/boszormenyi_zoltan_/02_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/boszormenyi_zoltan_/02_t.jpg</thumbnail>
+        <caption>Zoltán Böszörményi - A szerelem illata II.</caption>
+    </pic>
+	<pic>
+        <image>kepek/konyvek_illusztralt/boszormenyi_zoltan_/03_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/boszormenyi_zoltan_/03_t.jpg</thumbnail>
+        <caption>Zoltán Böszörményi - A szerelem illata III.</caption>
+    </pic>
+	<pic>
+        <image>kepek/konyvek_illusztralt/boszormenyi_zoltan_/04_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/boszormenyi_zoltan_/04_t.jpg</thumbnail>
+        <caption>Zoltán Böszörményi - A szerelem illata IV.</caption>
+    </pic>
+	<pic>
+        <image>kepek/konyvek_illusztralt/boszormenyi_zoltan_/05_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/boszormenyi_zoltan_/05_t.jpg</thumbnail>
+        <caption>Zoltán Böszörményi - A szerelem illata V.</caption>
+    </pic>
+	<pic>
+        <image>kepek/konyvek_illusztralt/boszormenyi_zoltan_/06_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/boszormenyi_zoltan_/06_t.jpg</thumbnail>
+        <caption>Zoltán Böszörményi - A szerelem illata VI.</caption>
+    </pic>
+	<pic>
+        <image>kepek/konyvek_illusztralt/boszormenyi_zoltan_/07_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/boszormenyi_zoltan_/07_t.jpg</thumbnail>
+        <caption>Zoltán Böszörményi - A szerelem illata VII.</caption>
+    </pic>
+	<pic>
+        <image>kepek/konyvek_illusztralt/boszormenyi_zoltan_/08_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/boszormenyi_zoltan_/08_t.jpg</thumbnail>
+        <caption>Zoltán Böszörményi - A szerelem illata VIII.</caption>
+    </pic>
+	<pic>
+        <image>kepek/konyvek_illusztralt/boszormenyi_zoltan_/09_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/boszormenyi_zoltan_/09_t.jpg</thumbnail>
+        <caption>Zoltán Böszörményi - A szerelem illata IX.</caption>
+    </pic>
+</images>

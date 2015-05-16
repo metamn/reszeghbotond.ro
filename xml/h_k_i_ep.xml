@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+    <pic>
+        <image>kepek/konyvek_illusztralt/egyed_peter/01_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/egyed_peter/01_t.jpg</thumbnail>
+        <caption>Egyed Péter - 23 Buborék - a Kurszk balladája I.</caption>
+    </pic>
+    <pic>
+        <image>kepek/konyvek_illusztralt/egyed_peter/02_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/egyed_peter/02_t.jpg</thumbnail>
+        <caption>Egyed Péter - 23 Buborék - a Kurszk balladája II.</caption>
+    </pic>    
+    <pic>
+        <image>kepek/konyvek_illusztralt/egyed_peter/03_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/egyed_peter/03_t.jpg</thumbnail>
+        <caption>Egyed Péter - 23 Buborék - a Kurszk balladája III.</caption>
+    </pic>   
+    <pic>
+        <image>kepek/konyvek_illusztralt/egyed_peter/04_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/egyed_peter/04_t.jpg</thumbnail>
+        <caption>Egyed Péter - 23 Buborék - a Kurszk balladája IV.</caption>
+    </pic>     
+    <pic>
+        <image>kepek/konyvek_illusztralt/egyed_peter/05_b.jpg</image>
+        <thumbnail>kepek/konyvek_illusztralt/egyed_peter/05_t.jpg</thumbnail>
+        <caption>Egyed Péter - 23 Buborék - a Kurszk balladája V.</caption>
+    </pic>
+</images>
